@@ -57,7 +57,7 @@ h2 {
     display: flex;
     justify-content: center;
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.4em;
+    font-size: 2.4em;
     padding: 1em;
 }
 
@@ -74,4 +74,13 @@ h2 {
 
 p {
     font-family: 'Inter', sans-serif;
+}
+
+#text{
+    text-align: center;
+    padding: 1em;
+}
+
+#text>p{
+    padding: 1em;
 }
