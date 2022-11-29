@@ -25,6 +25,7 @@ nav a:hover {
     color: darkgray;
 }
 
+
 header {
     height: 300px;
     background: url(../images/susan-wilkinson-9QInBfEP-Go-unsplash.jpg);
@@ -41,46 +42,4 @@ header {
 h1 {
     font-size: 3.4em;
     font-family: 'Montserrat', sans-serif;
-}
-
-h2 {
-    padding: 1em;
-    display: flex;
-    justify-content: center;
-    font-size: 2.4em;
-    font-family: 'Montserrat', sans-serif;
-}
-
-section>p {
-    padding: 1em;
-    display: flex;
-    justify-content: center;
-
-}
-
-p {
-    font-family: 'Inter', sans-serif;
-}
-
-
-legend {
-    font-size: 2.4em;
-    font-family: 'Montserrat', sans-serif;
-    padding: 0.5em;
-}
-
-form {
-    text-align: center;
-}
-
-form>fieldset>p {
-
-    padding: 1em;
-
-}
-
-#submit {
-    display: flex;
-    padding: 1em;
-    justify-content: center;
 }
